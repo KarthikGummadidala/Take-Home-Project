@@ -1,0 +1,27 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+name = "Accordie"
+client_id = "5200871d329b25c4ad8c5863d9a47657"
+application_url = "https://representing-actors-incentive-addresses.trycloudflare.com"
+embedded = true
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "read_themes,read_products"
+
+[auth]
+redirect_urls = [
+  "https://representing-actors-incentive-addresses.trycloudflare.com/auth/callback",
+  "https://representing-actors-incentive-addresses.trycloudflare.com/auth/shopify/callback",
+  "https://representing-actors-incentive-addresses.trycloudflare.com/api/auth/callback"
+]
+
+[webhooks]
+api_version = "2023-10"
+
+[pos]
+embedded = false
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = "weeklyhow-live-coding-session.myshopify.com"
