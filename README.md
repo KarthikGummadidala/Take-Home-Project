@@ -24,12 +24,12 @@ The goal of this project is to create a **Shopify Theme App Extension** that fun
 - Theme App Extension  
 - Liquid  
 - JSON Schema  
-- HTML / CSS / JavaScript :contentReference[oaicite:3]{index=3}
+- HTML / CSS / JavaScript
 
 ---
 
 ## Prerequisites
-Before beginning, ensure you have the following installed or set up: :contentReference[oaicite:4]{index=4}
+Before beginning, ensure you have the following installed or set up:
 
 - **Node.js**: Version 18 or higher
 - **Code Editor**: Visual Studio Code (recommended)
@@ -75,7 +75,7 @@ shopify app dev
 In this step, we create the Accordion FAQ section using a Liquid block.
 
 ### File Path
-accordie-main/extensions/accordiextension/assets/accordion.liquid
+accordie-main/extensions/accordiextension/blocks/accordion.liquid
 
 
 ### Code
@@ -174,4 +174,8 @@ After saving changes, confirm:
 ### Documentation
 
 - https://drive.google.com/file/d/1B6WSQO7EtlZ-yvjTu6SzrtJKCsNAS9SD/view?usp=sharing
+
+### Video explanation of this project
+
+- https://drive.google.com/file/d/1ZTXtGXi5_gV9X87CH4NLETfFIGrq_aBj/view?usp=sharing
 
