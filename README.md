@@ -165,6 +165,8 @@ After saving changes, confirm:
 ### Expected Output
 
 - Accordion section should be visible on the selected page template
+- Title should display from `block.settings.title`
+- Content should display from `block.settings.content`
 - Accordion should expand/collapse correctly using `<details>` and `<summary>`
 - CSS styling should apply consistently on all pages
 
