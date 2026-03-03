@@ -1,4 +1,4 @@
-# Take-Home-Project - Shopify Theme App Extension – FAQ Accordion
+# Shopify Theme App Extension – FAQ Section
 
 ## Project Overview
 This project is a **Shopify Theme App Extension** that adds a **custom FAQ Accordion section** to Shopify Online Store themes.  
